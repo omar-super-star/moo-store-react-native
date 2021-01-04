@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "moo-store",
+    "slug": "moo-store",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/logo3.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo3.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "moon.store"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
